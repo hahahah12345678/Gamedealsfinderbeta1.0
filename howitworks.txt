@@ -1,0 +1,45 @@
+Ultimate Game Deals & Free Giveaways Finder - User Guide
+========================================================
+
+Overview:
+---------
+This app helps you find the latest free game giveaways, the best game deals, and trending gaming news, all in one place. It features a simple tabbed interface with three main sections: Free Giveaways, Game Deals, and Gaming News.
+
+How to Use:
+-----------
+
+1. Free Giveaways Tab
+---------------------
+- **Browse Giveaways:** See a list of current free game giveaways from various platforms.
+- **Search:** Enter keywords in the search box to filter giveaways by title.
+- **Platform Filter:** Use the platform dropdown to show giveaways for a specific platform (e.g., Steam, Epic Games).
+- **Open Giveaway:** Double-click a row or click "Open" to visit the giveaway page in your browser.
+- **Copy Link:** Select a giveaway and click "Copy Selected Link" to copy its URL to your clipboard.
+
+2. Game Deals Tab
+-----------------
+- **Browse Deals:** View top game deals from multiple stores.
+- **Search:** Enter a game title in the search box to filter deals.
+- **Sort:** Use the "Sort by" dropdown to sort by Deal Rating, Price, or Savings.
+- **View Details:** Select a deal to see more info and a game image on the right.
+- **Open Deal:** Double-click a deal or click "Open" to visit the deal page.
+- **Copy Link:** Select a deal and click "Copy Selected Link" to copy its URL.
+- **Copy All Deals:** Click "Copy All Deals" to copy all visible deals (with links) to your clipboard.
+
+3. Gaming News Tab
+------------------
+- **Browse News:** See the latest gaming news headlines.
+- **News Type:** Use the dropdown to select between PC News, Fortnite, or Roblox news.
+- **Refresh:** Click "Refresh" to update the news feed.
+- **Read More:** Double-click a news item to open the full article in your browser.
+- **Preview Summary:** Select a news item to see a summary below the list.
+
+Tips:
+-----
+- The app auto-refreshes all tabs every 5 minutes.
+- All features are accessible via the tabbed interface at the top.
+- If you encounter errors, check your internet connection.
+
+
+
+Enjoy finding the best game deals and news!
